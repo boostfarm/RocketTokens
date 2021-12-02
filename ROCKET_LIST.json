@@ -1,0 +1,14 @@
+{
+    "name": "Rocket",
+    "logoURI": "https://app.rocketcoin.in/static/media/ROCKET_LOGO.c2af95b9.png",
+    "keywords": ["scaling", "layer2", "infrastructure"],
+    "timestamp": "2021-12-01T11:53:45.032+00:00",
+    "tokens": [ 
+      {"chainId":56,"address":"0xd051b29c5cb6c19532529d7544dd0718dd40ecc8","name":"Rocket Coin","symbol":"ROCKET","decimals":18,"logoURI":"https://app.rocketcoin.in/static/media/ROCKET_LOGO.c2af95b9.png"}
+      ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 1
+    }
+  }
